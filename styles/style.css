@@ -18,6 +18,9 @@ body {
     position: relative;
 }
 
+h1{
+    color: #f4e8e8;
+}
 
 input[type='text'] {
     padding: 10px;
